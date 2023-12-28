@@ -1,14 +1,29 @@
 h1{
     color: red;
+    background-color: yellow;
+    text-align: center;
+    margin-bottom: 30 px;
 }
 h2{
     color: blue;
+    background-color: orange;
 }
 .ingredients{
-    background-color: yellow;
+    background-color: wheat;
     color:black;
+    font-family: serif;
 }
 .steps{
+    color: purple;
     background-color: aquamarine;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: sans-serif;    
+}
+.links{
+    background-color: orange;
+    padding: 40px;
+    font-size: larger;
+}
+.link{
+    background-color: greenyellow;
+    display: block;
 }
